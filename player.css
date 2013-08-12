@@ -1,0 +1,13 @@
+html {
+  height: 100%; /* For webview's height */
+}
+
+body {
+	height: 100%; 
+    margin: 0 auto;
+}
+
+webview {
+    width: 100%;
+    height: 100%;
+}

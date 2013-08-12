@@ -1,0 +1,20 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
+
+  "app": {
+    "background": {
+      "scripts": [ "main.js" ]
+    }
+  },
+  "version": "1.0.4",
+  "manifest_version": 2,
+
+  "icons": {
+    "128": "appIcon.png"
+  },
+   
+  "minimum_chrome_version": "29", 
+  "permissions": ["webview"]
+}

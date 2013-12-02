@@ -1,15 +1,12 @@
-#gbx1, #gbq, #gbu, #gb #gbq, #gb #gbu {
-    top: 0 !important; 
+.gb_c {
+	display: none !important;
 }
 
-#gbx3, #gbzc, #gbg6, .gb_5, .gbmlbw, #gbmplp, #gbmpiw, .gbmpala {
-    display: none !important;
+
+a.gb_n.gb_d {
+	display: none !important;
 }
 
-.gbmpalb {
-    text-align: center !important;
-}
-
-#nav-content-container {
-    top: -30px !important;
+div.gb_rb.gb_yb.gb_g {
+	min-width: 10px !important;
 }

@@ -5,14 +5,14 @@
 
   	"app": {
     	"background": {
-      	"scripts": [ "background.js" ]
+      	"scripts": [ "app/background.js" ]
     	}
   	},
-  	"version": "1.0.6",
+  	"version": "1.0.7",
   	"manifest_version": 2,
 
   	"icons": {
-    	"128": "appIcon.png"
+    	"128": "app/icon128.png"
   	},
    
   	"minimum_chrome_version": "29", 
